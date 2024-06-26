@@ -11,7 +11,3 @@ average_score = [sum(sub_list) / len(sub_list) for sub_list in grades]
 print(average_score)
 my_dict = dict(zip(students_sort, average_score))
 print(my_dict)
-
-
-
-
